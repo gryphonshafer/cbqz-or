@@ -1,0 +1,34 @@
+---
+seasons:
+  - name: Corinthians
+    start: Aug 1, 2025
+    days: 365
+    meets:
+
+      - name: Welcome Event
+        start: Sep 6 2025 8 AM PDT
+        special_material: 1 Cor 1-2
+        deadline: 0
+        host:
+            name: Dallas Alliance Church
+            url: https://dallasalliance.org
+            address: 775 E Ellendale Ave, Dallas OR 97338
+        notes: No registration required.
+
+      - name: Meet 1
+        region: WWA
+
+      - name: Meet 2
+        region: WWA
+
+      - name: Meet 3
+        region: WWA
+
+      - name: Meet 4
+        region: WWA
+
+      - name: Meet 5
+        region: WWA
+
+      - name: Championships
+        region: WWA
