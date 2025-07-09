@@ -25,15 +25,3 @@ seasons:
       - name: Meet 3
         start: Jan 24 2026 8 AM PST
         new_material: 1 Cor 12-16
-
-      - name: Meet 4
-        region: WWA
-        notes: _Optional/extra meet hosted by the Western Washington Region_
-
-      - name: Meet 5
-        region: WWA
-        notes: _Optional/extra meet hosted by the Western Washington Region_
-
-      - name: Championships
-        region: WWA
-        notes: _Optional/extra meet hosted by the Western Washington Region_
