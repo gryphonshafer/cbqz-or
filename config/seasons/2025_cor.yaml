@@ -13,22 +13,27 @@ seasons:
             name: Dallas Alliance Church
             url: https://dallasalliance.org
             address: 775 E Ellendale Ave, Dallas OR 97338
-        notes: No registration required.
+        notes: No registration required
 
       - name: Meet 1
         region: WWA
 
       - name: Meet 2
-        region: WWA
+        start: Nov 11 2025 8 AM PST
+        new_material: 1 Cor 7-11
 
       - name: Meet 3
-        region: WWA
+        start: Jan 24 2026 8 AM PST
+        new_material: 1 Cor 12-16
 
       - name: Meet 4
         region: WWA
+        notes: _Optional/extra meet hosted by the Western Washington Region_
 
       - name: Meet 5
         region: WWA
+        notes: _Optional/extra meet hosted by the Western Washington Region_
 
       - name: Championships
         region: WWA
+        notes: _Optional/extra meet hosted by the Western Washington Region_
