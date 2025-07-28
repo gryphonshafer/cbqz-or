@@ -1,5 +1,5 @@
 <!-- docs:hide_top_photo -->
-<img src="/oregon_relief_location_map.svg" class="page_photo">
+<img src="/oregon_relief_location_map.svg" class="page_photo border">
 
 # Oregon Bible Quizzing
 
