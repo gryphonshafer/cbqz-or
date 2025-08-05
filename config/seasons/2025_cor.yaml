@@ -25,3 +25,9 @@ seasons:
       - name: Meet 3
         start: Jan 24 2026 8 AM PST
         new_material: 1 Cor 12-16
+        host:
+            name: Fruitland Community Church
+            url: https://fruitlandcommunitychurch.org
+            address: 6252 Fruitland Rd NE, Salem OR 97317
+            housing: true
+            lunch: true
