@@ -1,5 +1,14 @@
 <!-- docs:hide_photos -->
-<img src="/graphics/studying_0.png" style="width: 100%">
+<img src="/graphics/studying_0.png" style="
+    width: 100%;
+    margin-bottom: 1em;
+">
+<img src="/logo/source.svg" style="
+    width: 5em;
+    height: 5em;
+    float: right;
+    margin: 1em 0 2em 2em;
+">
 
 # Welcome Event
 
