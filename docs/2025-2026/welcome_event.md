@@ -1,5 +1,5 @@
 <!-- docs:hide_photos -->
-<img src="*/graphics/studying_0.png" style="width: 100%">
+<img src="/graphics/studying_0.png" style="width: 100%">
 
 # Welcome Event
 
