@@ -24,7 +24,7 @@ Kick off a great year in God’s word and make lasting friendships at Oregon’s
 
 #### Welcome Event Schedule
 
-- **Sequence Period 1**: *Start at 9 AM*
+- **Session 1**: *Start at 9 AM*
     - Short worship time
     - Quiz set 1 (likely 2 or 3 introductory quizzes maximum)
         - Very first quiz will be a demonstration quiz with veteran quizzers showing rookies how Quizzing works
@@ -34,14 +34,14 @@ Kick off a great year in God’s word and make lasting friendships at Oregon’s
         - Adults will share how to coach and what the season will be like
         - Veteran quizzers will share with rookie quizzer about how to study
 - **Lunch Break**: Folks will go into town for lunch and return to the church for games and fellowship time
-- **Sequence Period 2**: *Start at 1 PM*
+- **Session 2**: *Start at 1 PM*
     - Quiz set 2
         - Scheduled quiz schedule that look and feel like the real thing
-        - Maybe 3 quiz slots in total
+        - 2-to-4 quiz slots in total
     - Workshop set 2
         - Everybody
             - How to use QuizSage (as a quizzer, coach, parent, etc.)
-        - Adults (whilst quizzers either self-quiz, with quizzers as QMs, and/or play lawn games)
+        - Adults (while quizzers either self-quiz, with quizzers as QMs, and/or play lawn games)
             - Introduction to what Quizzing is about
             - How to be an awesome coach
 - *Conclude around 4 PM*
