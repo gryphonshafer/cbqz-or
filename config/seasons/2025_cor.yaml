@@ -30,6 +30,12 @@ seasons:
       - name: Meet 2
         start: Nov 22 2025 8 AM PST
         new_material: 1 Cor 8-11
+        host:
+            name: Calvin Presbyterian Church
+            url: https://calvin-church.org
+            address: 1736 NW Dixon St, Corvallis OR 97330
+            housing: false
+            lunch: false
 
       - name: Meet 3
         start: Jan 24 2026 8 AM PST
