@@ -28,21 +28,16 @@ seasons:
             lunch: true
 
       - name: Meet 2
-        start: Nov 22 2025 8 AM PST
-        new_material: 1 Cor 8-11
-        host:
-            name: Calvin Presbyterian Church
-            url: https://calvin-church.org
-            address: 1736 NW Dixon St, Corvallis OR 97330
-            housing: false
-            lunch: false
+        region: WWA
 
       - name: Meet 3
-        start: Jan 24 2026 8 AM PST
-        new_material: 1 Cor 12-16
-        host:
-            name: Fruitland Community Church
-            url: https://fruitlandcommunitychurch.org
-            address: 6252 Fruitland Rd NE, Salem OR 97317
-            housing: true
-            lunch: true
+        region: WWA
+
+      - name: Meet 4
+        region: WWA
+
+      - name: Meet 5
+        region: WWA
+
+      - name: Championships
+        region: WWA
