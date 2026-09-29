@@ -1,40 +1,37 @@
 ---
 seasons:
   - name: John
-    start: May 4, 2026
-    days: 454
+    start: Aug 1, 2026
+    days: 365
     meets:
 
       - name: Scramble
-        start: Sep 12 2026 9 AM PDT
-        special_material: John 1-3
-        deadline: 0
-        notes: No registration required
+        region: WWA
 
       - name: Meet 1
         start: Oct 24 2026 8 AM PDT
         new_material: John 1-6
+        host:
+            name: Juniper Community Church
+            url: https://junipercc.com
+            address: 976 S Adams Dr, Madras OR 97741
+            housing: true
+            lunch: true
 
       - name: Meet 2
-        start: Dec 5 2026 8 AM PST
-        new_material: John 7-9
+        region: WWA
 
       - name: Meet 3
-        start: Jan 16 2027 8 AM PST
-        new_material: John 10-12
+        region: WWA
 
       - name: Meet 4
-        start: Feb 27 2027 8 AM PST
-        new_material: John 13-17
+        region: WWA
 
       - name: Meet 5
-        start: Mar 27 2027 8 AM PDT
-        new_material: John 18-21
+        region: WWA
 
       - name: Championships
-        start: Apr 30 2027 5 PM PDT
-        days: 2
+        region: INW
 
       - name: International Open Championships
-        start: May 21 2027 5 PM PDT
-        days: 3
+        region: WWA
